@@ -47,6 +47,12 @@ print(norm)
 
 ![image](https://github.com/Kishorekumar22060/Norm-of-a-matrix/assets/141472136/0a0c2183-7904-4d18-82a2-bc14562b7aa5)
 
+![image](https://github.com/Kishorekumar22060/Norm-of-a-matrix/assets/141472136/6a78698e-8b3d-4589-8caf-e68786e7b0f9)
+
+![image](https://github.com/Kishorekumar22060/Norm-of-a-matrix/assets/141472136/536de0a6-3416-4322-8049-9dd3c8b78886)
+
+
+
 ### 1-Norm of a Matrix
 <br>
 <br>
